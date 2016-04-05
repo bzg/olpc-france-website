@@ -1,7 +1,7 @@
 ---
-permalink: /search/
+permalink: /recherche/
 layout: page
-title: "Search"
+title: "Recherche"
 sitemap: false
 ---
 
