@@ -240,7 +240,7 @@
 
                       
 
-                      <li><a href="http://localhost:4000/nosykomba/">Nosy Komba</a></li>
+                      <li><a href="http://localhost:4000/nosy-komba/">Nosy Komba</a></li>
                     
                   </ul>
 

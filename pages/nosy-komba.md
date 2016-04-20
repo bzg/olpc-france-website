@@ -3,18 +3,18 @@ layout: page-fullwidth
 title: "Le déploiement OLPC France à Nosy Komba"
 subheadline: "Le déploiement OLPC France à Nosy Komba"
 teaser: ""
-permalink: "/nosykomba/"
+permalink: "/nosy-komba/"
 header:
    image_fullwidth: "nk_olpc_france_2_large_1600x900.jpg"
 ---
-# L’éducation au centre d'une démarche globale
+## L’éducation au centre d'une démarche globale
 
 Améliorer l’accès à l’éducation permet d’assurer un avenir aux
 enfants, leur donner une chance de sortir de la précarité et de
 résoudre d’autres problèmes sur place en lien avec ce manque
 d’éducation.
 
-# Depuis 2009, OLPC France agit avec l'association « G du coeur »
+## Depuis 2009, OLPC France agit avec l'association « G du coeur »
 
 Plus de 200 XO (ordinateurs pédagogiques adaptés aux enfants) ont été
 déployés.

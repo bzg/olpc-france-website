@@ -20,7 +20,7 @@ widget2:
 #  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Des XOs à Madagascar"
-  url: '/nosykomba/'
+  url: '/nosy-komba/'
   image: nk2014_1-300x180.jpg
   text: 'Description du projet Nosy Komba'
 #
