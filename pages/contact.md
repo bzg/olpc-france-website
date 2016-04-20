@@ -15,8 +15,13 @@ nous envoyons dans le futur » (Alan Kay), que l'éducation est l'un des
 défis majeurs du siècle, que le libre et le numérique sont deux
 chances de s'attaquer à ce problème, rejoignez-nous !
 
-Il y a parmi nous des développeurs, des enseignants, des traducteurs, 
+Il y a parmi nous des développeurs, des enseignants, des traducteurs,
 des designers - notre diversité fait notre longévité.
 
-N'hésitez pas !  Envoyez un mail à **Contact AT olpc-france.org**
+N'hésitez pas à nous rejoindre !
+
+Envoyez-nous un simple mail à **Contact AT olpc-france.org**.
+
+Vous pouvez suivre notre [blog](https://olpc-france.org/blog/) et
+contribuer à notre [wiki](https://olpc-france.org/wiki/).
 

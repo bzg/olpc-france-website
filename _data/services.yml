@@ -1,16 +1,16 @@
-- menu_name: "Services"
+- menu_name: "Nous suivre"
 
 - name: "Contact"
   url: "/contact/"
   title: "Contact"
 
-- name: "RSS"
-  url: "/feed.xml"
-  title: "Abonnez-vous au flux RSS"
+# - name: "RSS"
+#   url: "/feed.xml"
+#   title: "Abonnez-vous au flux RSS"
 
-- name: "Atom"
-  url: "/atom.xml"
-  title: "Abonnez-vous au flux Atom"
+# - name: "Atom"
+#   url: "/atom.xml"
+#   title: "Abonnez-vous au flux Atom"
 
 - name: "sitemap.xml"
   url: "/sitemap.xml"

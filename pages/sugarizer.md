@@ -32,3 +32,4 @@ Sugarizer a été pensé dès le début avec l'expérience des projets de
 déploiements d'OLPC France pour offrir les fonctionnalités permettant
 réellement de déployer Sugar sur d'autres machines que le XO.
 
+{% include alert info='Vous pouvez tester <a href="http://sugarizer.org">sugarizer.org</a> dès maintenant !' %}

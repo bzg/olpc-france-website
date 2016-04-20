@@ -37,3 +37,5 @@ dans la classe (XO, TNI, ordinateurs portables, clés USB).
 * PICRI : Partenariats institutions-citoyens pour la recherche et l'innovation.
 * UOPO : Usage et appropriation d’Ordinateurs Portables à l’école primaire.
 * OLPC : One LapTop Per Child.
+
+{% include alert info='Vous pouvez lire une présentation plus détaillée du <a href="https://olpc-france.org/picri/">projet PICRI</a>.' %}

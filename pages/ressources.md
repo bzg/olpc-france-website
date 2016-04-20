@@ -5,7 +5,7 @@ subheadline: "Ressources utiles autour d'OLPC, du XO et de Sugar"
 teaser: "Cette page est ouverte aux suggestions."
 permalink: "/ressources/"
 header:
-   image_fullwidth: "header_roadmap_2.jpg"
+   image_fullwidth: "ressources.jpg"
 ---
 ## Sur OLPC et OLPC France
 
