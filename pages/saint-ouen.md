@@ -5,7 +5,7 @@ subheadline: "Présentation du projet OLPC France / Saint-Ouen"
 teaser: ""
 permalink: "/saint-ouen/"
 header:
-   image_fullwidth: "header_roadmap_2.jpg"
+   image_fullwidth: "saint-ouen-img3892_1600x900.jpg"
 ---
 Le projet PICRI UOPO vise à comprendre les usages du numérique à
 l’école primaire.

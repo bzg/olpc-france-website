@@ -257,7 +257,7 @@
 
             
             
-              <li><a href="http://localhost:4000/documentation/">Documentation</a></li>
+              <li><a href="http://localhost:4000/ressources/">Ressources</a></li>
               <li class="divider"></li>
 
             

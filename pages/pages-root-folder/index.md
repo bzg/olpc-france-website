@@ -6,21 +6,22 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: nk_olpc_france_1_large_1600x900.jpg
 widget1:
   title: "Des XOs à Saint-Ouen"
-  url: 'https://olpc-france.org/projets/saint-ouen/'
-  image: widget-1-302x182.jpg
-  text: 'Description du projet XO à Saint-Ouen'
+  url: '/saint-ouen/'
+  image: saint-ouen-img3890_300x180.jpg
+  text: 'Des élèves du primaire à Saint-Ouen utilisent des XOs et Sugar'
 widget2:
   title: "Sugarizer : Sugar en HTML5"
-  url: 'https://olpc-france.org/projets/sugarizer/'
-  text: 'Description du projet Sugarizer'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  url: '/sugarizer/'
+  image: sugar_animation_300x180-1.jpg
+  text: 'Découvrez Sugarizer, la version de Sugar qui tourne dans votre navigateur'
+#  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Des XOs à Madagascar"
-  url: 'https://olpc-france.org/projets/nosykomba/'
-  image: widget-github-303x182.jpg
+  url: '/nosykomba/'
+  image: nk2014_1-300x180.jpg
   text: 'Description du projet Nosy Komba'
 #
 # Use the call for action to show a button on the frontpage

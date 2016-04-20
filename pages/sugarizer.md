@@ -5,7 +5,7 @@ subheadline: "La suite pédagogique libre Sugar... dans votre navigateur !"
 teaser: ""
 permalink: "/sugarizer/"
 header:
-   image_fullwidth: "header_roadmap_2.jpg"
+   image_fullwidth: "sugar_animation_1600x900-2.jpg"
 ---
 ## Quoi ? 
  
