@@ -11,18 +11,18 @@
   side: left
   dropdown:
   - title: "Saint-Ouen"
-    url: "/projets/saint-ouen/"
+    url: "/pages/saint-ouen/"
   - title: "Sugarizer"
-    url: "/projets/sugarizer/"
+    url: "/pages/sugarizer/"
   - title: "Nosy Komba"
-    url: "/projets/nosykomba/"
+    url: "/pages/nosykomba/"
 
 - title: Documentation
   url: "/documentation/"
   side: left
 
 - title: Notre blog
-  url: "/blog/"
+  url: "https://olpc-france.org/blog/"
   side: left
 
 - title: "Recherche"
