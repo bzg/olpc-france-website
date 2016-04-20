@@ -2,27 +2,27 @@
   url: "/"
   side: left
 
-- title: Qui sommes-nous ?
-  url: "/qui-sommes-nous/"
-  side: left
-
 - title: "Nos projets"
   url: "/projets/"
   side: left
   dropdown:
   - title: "Saint-Ouen"
-    url: "/pages/saint-ouen/"
+    url: "/saint-ouen/"
   - title: "Sugarizer"
-    url: "/pages/sugarizer/"
+    url: "/sugarizer/"
   - title: "Nosy Komba"
-    url: "/pages/nosykomba/"
+    url: "/nosykomba/"
 
 - title: Documentation
   url: "/documentation/"
   side: left
 
-- title: Notre blog
+- title: Blog
   url: "https://olpc-france.org/blog/"
+  side: left
+
+- title: Wiki
+  url: "https://olpc-france.org/wiki/"
   side: left
 
 - title: "Recherche"
@@ -31,6 +31,10 @@
 
 - title: "Faire un don"
   url: "/don/"
+  side: right
+
+- title: Qui sommes-nous ?
+  url: "https://olpc-france.org/blog/mission-contact/"
   side: right
 
 - title: "Nous contacter"

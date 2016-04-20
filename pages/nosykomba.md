@@ -1,9 +1,9 @@
 ---
 layout: page-fullwidth
-title: "Documents utiles autour d'OLPC, du XO et de Sugar"
-subheadline: "Documents utiles autour d'OLPC, du XO et de Sugar"
-teaser: "Cette page est ouverte aux suggestions."
-permalink: "/documentation/"
+title: "Le déploiement OLPC France à Nosy Komba"
+subheadline: "Le déploiement OLPC France à Nosy Komba"
+teaser: ""
+permalink: "/nosykomba/"
 header:
    image_fullwidth: "header_roadmap_2.jpg"
 ---
