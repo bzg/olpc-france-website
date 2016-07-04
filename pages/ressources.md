@@ -25,7 +25,8 @@ header:
 
 * [L_Ordinateur_XO_dans_la_classe_Finale.pdf](https://olpc-france.org/docs/L_Ordinateur_XO_dans_la_classe_Finale.pdf)
 * [scratch_reference_guide_fr.pdf](https://olpc-france.org/docs/scratch_reference_guide_fr.pdf)
-  
+* [Physics with XO](https://www.gitbook.com/book/icarito/physics-with-xo/details)
+
 ## Sur Sugar
 
 * [Sugar Overview (PDF en anglais)](http://wiki.sugarlabs.org/images/d/de/Sugar_overview.pdf)
