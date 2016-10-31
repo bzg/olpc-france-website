@@ -25,6 +25,10 @@
   url: "https://olpc-france.org/wiki/"
   side: left
 
+- title: Newsletter
+  url: "https://olpc-france.org/newsletter/"
+  side: left
+
 - title: "Recherche"
   url: "/recherche/"
   side: right
