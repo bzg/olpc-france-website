@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://localhost:4000/</id>
+	<id>https://olpc-france.org/</id>
 	<title>OLPC France</title>
-	<updated>2016-10-31T13:37:07+01:00</updated>
+	<updated>2016-10-31T13:51:14+01:00</updated>
 
 	<subtitle>OLPC France est une association française dont la mission est de prolonger One Laptop Per Child en créant et en diffusant des ressources pédagogiques libres, francophones et innovantes.</subtitle>
 
@@ -19,10 +19,10 @@
 		</author>
 	
 
-	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
+	<link href="https://olpc-france.org/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://olpc-france.org/" rel="alternate" type="text/html" />
 
-	<generator uri="http://jekyllrb.com" version="3.0.2">Jekyll</generator>
+	<generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
 
 	
 </feed>
