@@ -5,9 +5,9 @@
 
 	
 	<url>
-	<loc>https://olpc-france.org/404.html</loc>
+	<loc>http://localhost:4000/404.html</loc>
 	
-		<lastmod>2016-10-31T13:51:14+01:00</lastmod>
+		<lastmod>2016-11-01T09:42:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,26 +20,9 @@
 
 	
 	<url>
-	<loc>https://olpc-france.org/blog/archive/</loc>
+	<loc>http://localhost:4000/blog/archive/</loc>
 	
-		<lastmod>2016-10-31T13:51:14+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>https://olpc-france.org/atom.xml</loc>
-	
-		<lastmod>2016-10-31T13:51:14+01:00</lastmod>
+		<lastmod>2016-11-01T09:42:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,238 +37,9 @@
 
 	
 	<url>
-	<loc>https://olpc-france.org/contact/</loc>
+	<loc>http://localhost:4000/atom.xml</loc>
 	
-		<lastmod>2016-10-31T13:51:14+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://olpc-france.org/don/</loc>
-	
-		<lastmod>2016-10-31T13:51:14+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://olpc-france.org/feed.xml</loc>
-	
-		<lastmod>2016-10-31T13:51:14+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://olpc-france.org/headers/</loc>
-	
-		<lastmod>2016-10-31T13:51:14+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://olpc-france.org/humans.txt</loc>
-	
-		<lastmod>2016-10-31T13:51:14+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://olpc-france.org/jblog/</loc>
-	
-		<lastmod>2016-10-31T13:51:14+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://olpc-france.org/</loc>
-	
-		<lastmod>2016-10-31T13:51:14+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://olpc-france.org/newsletter/</loc>
-	
-		<lastmod>2016-10-31T13:51:14+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://olpc-france.org/nosy-komba/</loc>
-	
-		<lastmod>2016-10-31T13:51:14+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://olpc-france.org/projets/</loc>
-	
-		<lastmod>2016-10-31T13:51:14+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://olpc-france.org/recherche/</loc>
-	
-		<lastmod>2016-10-31T13:51:14+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://olpc-france.org/redirect-page/</loc>
-	
-		<lastmod>2016-10-31T13:51:14+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://olpc-france.org/ressources/</loc>
-	
-		<lastmod>2016-10-31T13:51:14+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://olpc-france.org/robots.txt</loc>
-	
-		<lastmod>2016-10-31T13:51:14+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>https://olpc-france.org/saint-ouen/</loc>
-	
-		<lastmod>2016-10-31T13:51:14+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://olpc-france.org/sitemap.xml</loc>
-	
-		<lastmod>2016-10-31T13:51:14+01:00</lastmod>
+		<lastmod>2016-11-01T09:42:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -300,9 +54,255 @@
 
 	
 	<url>
-	<loc>https://olpc-france.org/sugarizer/</loc>
+	<loc>http://localhost:4000/contact/</loc>
 	
-		<lastmod>2016-10-31T13:51:14+01:00</lastmod>
+		<lastmod>2016-11-01T09:42:40+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/don/</loc>
+	
+		<lastmod>2016-11-01T09:42:40+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/feed.xml</loc>
+	
+		<lastmod>2016-11-01T09:42:40+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/headers/</loc>
+	
+		<lastmod>2016-11-01T09:42:40+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/humans.txt</loc>
+	
+		<lastmod>2016-11-01T09:42:40+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/jblog/</loc>
+	
+		<lastmod>2016-11-01T09:42:40+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/</loc>
+	
+		<lastmod>2016-11-01T09:42:40+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/newsletter/</loc>
+	
+		<lastmod>2016-11-01T09:42:40+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/nosy-komba/</loc>
+	
+		<lastmod>2016-11-01T09:42:40+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/projets/</loc>
+	
+		<lastmod>2016-11-01T09:42:40+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/recherche/</loc>
+	
+		<lastmod>2016-11-01T09:42:40+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/redirect-page/</loc>
+	
+		<lastmod>2016-11-01T09:42:40+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/ressources/</loc>
+	
+		<lastmod>2016-11-01T09:42:40+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/robots.txt</loc>
+	
+		<lastmod>2016-11-01T09:42:40+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/saint-ouen/</loc>
+	
+		<lastmod>2016-11-01T09:42:40+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/sitemap.xml</loc>
+	
+		<lastmod>2016-11-01T09:42:40+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/sugarizer/</loc>
+	
+		<lastmod>2016-11-01T09:42:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>

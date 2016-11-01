@@ -18,15 +18,19 @@
   side: left
 
 - title: Blog
-  url: "https://olpc-france.org/blog/"
+  url: "/blog/"
   side: left
 
 - title: Wiki
-  url: "https://olpc-france.org/wiki/"
+  url: "/wiki/"
+  side: left
+
+- title: Forum
+  url: "https://forum.olpc-france.org"
   side: left
 
 - title: Newsletter
-  url: "https://olpc-france.org/newsletter/"
+  url: "/newsletter/"
   side: left
 
 - title: "Recherche"
@@ -38,7 +42,7 @@
   side: right
 
 - title: Mission
-  url: "https://olpc-france.org/blog/mission-contact/"
+  url: "/blog/mission-contact/"
   side: right
 
 - title: "Nous contacter"
