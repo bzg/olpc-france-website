@@ -149,12 +149,6 @@
 		
 		
 		
-
-		
-
-		
-		
-		
 		
 		<li class="divider"></li>
 		<li><a href="https://olpc-france.org/recherche/">Recherche</a></li>
@@ -300,21 +294,6 @@
 		
 		
 		<li><a href="https://olpc-france.org/wiki/">Wiki</a></li>
-		<li class="divider"></li>
-
-		
-		
-		
-		
-
-		
-
-		
-		
-
-		
-		
-		<li><a href="https://forum.olpc-france.org" target="_blank">Forum</a></li>
 		<li class="divider"></li>
 
 		

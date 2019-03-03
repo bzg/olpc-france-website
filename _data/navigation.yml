@@ -25,10 +25,6 @@
   url: "/wiki/"
   side: left
 
-- title: Forum
-  url: "https://forum.olpc-france.org"
-  side: left
-
 - title: Newsletter
   url: "/newsletter/"
   side: left
